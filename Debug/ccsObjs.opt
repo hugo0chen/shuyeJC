@@ -1,0 +1,1 @@
+"./CC1101.obj" "./flash.obj" "./main.obj" "./task.obj" "./timer.obj" "./shuyeJC/main.obj" "../lnk_msp430f2272.cmd" -llibc.a 
